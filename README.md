@@ -10,8 +10,7 @@
 💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
   
 </div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-     src="https://cdn.discordapp.com/attachments/899996701295788052/899996888152023080/bandeira.gif">
+  
 
 <div align="center">
   </br>
