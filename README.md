@@ -1,18 +1,17 @@
-##
 
 <div align="center"> 
-  <h1> Bem vindos ao Git do
-    
-    Futuro Rei dos Piratas
-    
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-     src="https://cdn.discordapp.com/attachments/899996701295788052/899996888152023080/bandeira.gif">
-    </br>
-    
-  </h1>
- 
   
- </div>
+  <h1>
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+    Bem vindos ao Git do
+    
+    👑Futuro Rei dos Piratas👑 
+    
+💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+  
+</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+     src="https://cdn.discordapp.com/attachments/899996701295788052/899996888152023080/bandeira.gif">
 
 <div align="center">
   </br>
