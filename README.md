@@ -1,18 +1,24 @@
 ##
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1>
+
 <div align="center"> 
   <h1> Bem vindos ao Git do
     
     Futuro Rei dos Piratas
-      
+    
+   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+     src="https://cdn.discordapp.com/attachments/899996701295788052/899996888152023080/bandeira.gif">
+    </br>
+    
   </h1>
  
   
  </div>
 
 <div align="center">
+  </br>
+  </br>
+  </br>
+  </br></br>
   <a href="https://github.com/PeduAlves">
   <img   src="https://github-readme-stats.vercel.app/api?username=PeduAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduAlves&layout=compact&langs_count=7&theme=dark"/>
