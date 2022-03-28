@@ -12,10 +12,7 @@
 <br>
 
   
-</div>
-  <h1 align="center">Ore wa kaizoku ou ni naru otoko da </h1>
 
-<div align="center">
   </br>
   </br></br>
   <a href="https://github.com/PeduAlves">
