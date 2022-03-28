@@ -6,11 +6,11 @@
 <div align="center"> 
   
   <h1>
-💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+
  <br>
     Bem vindos ao meu Show
 <br>
-💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥
+
   
 </div>
   <h1 align="center">Ore wa kaizoku ou ni naru otoko da </h1>
