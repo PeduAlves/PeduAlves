@@ -8,7 +8,7 @@
   <h1>
 
  <br>
-    Bem vindos ao meu Show
+   Welcome to my show
 <br>
 
   
@@ -20,7 +20,7 @@
   <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduAlves&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <h3 align="center"> Linguagens que tenho interesse </h3>
+  <h3 align="center"> Languages </h3>
   <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -30,7 +30,7 @@
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
   
-  <h2 align="center"> <br> Meus contatos </br> </h2>
+  <h2 align="center"> <br> Contact </br> </h2>
   
   <div align="center"> 
   
