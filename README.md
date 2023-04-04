@@ -3,13 +3,17 @@
 
 
 --!>
+Olá, eu sou Pedro alves! 👋🏼
+<br>
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=
 <div align="center"> 
   
   <h1>
 
  <br>
-   Welcome to my show
-<br>
+  
 
   
 
