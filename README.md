@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeduAlves&layout=compact&hide_border=true&title_color=02a61d&text_color=02a61d&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeduAlves&theme=chartreuse-dark)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PeduAlves&theme=chartreuse-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -43,7 +40,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 
-![Snake_gif](https://github.com/PeduAlves/PeduAlves/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
